@@ -1,0 +1,13 @@
+body {
+	background-color:#ffffff;
+}
+#company {
+	padding:20px;
+	float:left;
+	background-color:#4aaaa5;
+	margin-left:100px;
+}
+#navbar {
+	display:inline;
+	float:right;
+}
