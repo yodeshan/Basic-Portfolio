@@ -1,13 +1,54 @@
 body {
-	background-color:#ffffff;
+	background-color:#ebebeb;
 }
 #company {
-	padding:20px;
+	padding:25px;
 	float:left;
 	background-color:#4aaaa5;
 	margin-left:100px;
 }
+
 #navbar {
-	display:inline;
 	float:right;
+	margin-right: 400px;
+	paddin
+}
+#navbar1 {
+	float:right;
+	margin-right:100px;
+}
+#navbar2 {
+	float:right;
+	margin-right:100px;
+}
+#lip {
+	margin-top:-24px;
+}
+#nav {
+	padding :33px;
+	background-color: #ffffff;
+}
+#about {
+	padding:50px;
+	background-color:#ffffff;
+	margin-left:100px;
+	margin-top:20px;
+	float:left;
+	width:600px;
+	height:400px;
+	margin-bottom:1000px;
+}
+#about2 {
+	background-color: #ffffff;
+	font-size: 25px;
+	font-style:bold;
+}
+#shift {
+	margin-top:15px;
+}
+#para {
+	float:right;
+	margin-left: 250px;
+	margin-top:-225px;
+	clear:both;
 }
