@@ -36,12 +36,15 @@ body {
 	float:left;
 	width:600px;
 	height:400px;
-	margin-bottom:1000px;
+	margin-bottom:1200px;
 }
 #about2 {
 	background-color: #ffffff;
 	font-size: 25px;
 	font-style:bold;
+}
+#tani {
+	color:#4aaaa5;
 }
 #shift {
 	margin-top:15px;
@@ -51,4 +54,36 @@ body {
 	margin-left: 250px;
 	margin-top:-225px;
 	clear:both;
+	font-size:20px;
+}
+#para2 {
+	float:right;
+	margin-left: 0px;
+	margin-bottom:-225px;
+	clear:both;
+	font-size:20px;
+}
+#connect {
+	padding:100px;
+	float:right;
+	background-color:#ffffff;
+	margin-right:50px;
+	margin-top:20px;
+}
+#connect2 {
+	font-size:25px;
+	margin-top:-70px;
+	color:#4aaaa5;
+}
+#fb {
+
+}
+#induce {
+	margin-top:1000px;
+}
+#industry {
+	padding:25px;
+	float:left;
+	background-color:#4aaaa5;
+	margin-left:100px;
 }
